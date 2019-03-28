@@ -8,6 +8,8 @@ Generate screenshots from your sitemap
 yarn install
 ```
 
+or
+
 ```bash
 npm install
 ```
